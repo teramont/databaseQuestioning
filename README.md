@@ -1,4 +1,4 @@
-<h1>databaseQuestioning</h1>
+<h1>Database questioning</h1>
 <img src="main.png">
 
 - Шпильовий Роман Петрович           rendonon@gmail.com
