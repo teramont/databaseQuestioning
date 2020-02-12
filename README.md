@@ -1,5 +1,4 @@
 # Помить і продать
-
 - Шпильовий Роман Петрович           rendonon@gmail.com
 - Фібрук Руслан Сергійович           rfibruk@gmail.com
 - Розгон Олександр Олександрович     ukrpresident2036@gmail.com
