@@ -1,3 +1,5 @@
+# Анкетування
+
 Згідно з фармацевтичною енциклопедією [3]:
 
 **Анкетування** (від фр. enquete) — метод отримання інформації шляхом письмових відповідей респондентів на систему стандартизованих запитань попередньо підготовлених бланків — анкет. Анкетування відноситься до групи методів, яка в соціології, педагогіці і психології носить назву «опитування». У цю групу, крім анкетування, ще входять інтерв&#39;ю і бесіда.
@@ -44,7 +46,7 @@
 - Обов&#39;язково залишайте поля, які нададуть можливість респондентам висловити свої думки
 - Протестуйте опитування
 
-**Експертна группа**
+# Експертна группа
 
 Використовувати всiх спецiалiстiв в проведеннi експертизи недоцiльно та практично неможливо. Тому з загального списку потрiбно сформувати репрезентативну вибiрку. Вiдiбранi спецiалiсти повиннi вiдповiдати таким вимогам:
 
@@ -60,7 +62,7 @@
 
 Розрахувати кількість експертів необхідну для певного дослідження допоможе спеціальна формула, яка включає в себе деяк змінні фактори, типу компетентності,  в даній роботі оглядати її ми не будемо.
 
-**Метод Дельфі**
+# Метод Дельфі
 
 Ме́тод експе́ртних оці́нок або метод Дельфі (англ. Delphi technique) — один з основних класів методів науково-технічного прогнозування, який ґрунтується на припущенні, що на основі думок експертів можна збудувати адекватну модель майбутнього розвитку об&#39;єкта прогнозування. [7]
 
@@ -80,7 +82,7 @@
 
 Цих вад можна частково позбутися шляхом відкладеної оцінки, або методу «мозкового штурму».
 
-**Мозковий штурм**
+# Мозковий штурм
 
 Для проведення сеансу комплектують спеціальну групу з представників науково-дослідних, конструкторських, виробничих та інших підрозділів фірми — переважно від 6 до 10 чол. Призначають голову групи, який добре обізнаний з технікою застосування методу «М.ш.». До групи, як правило, входять 1-2 чол., які взагалі не обізнані з проблемою і є спеціалістами з інших галузей науки і техніки.
 
@@ -92,7 +94,22 @@
 
 Ефективність методу «мозкового шторму» зменшується, якщо в групі є сильна особа, що домінує над іншими, якщо недостатня кваліфікація учасників або якщо їх дуже багато.
 
-**Оса**
+Етапи обробки результатів анкетування
+
+1. розробіть відповідні опитування / анкети, щоб допомогти організаціям модифікувати свої товари / послуги, щоб отримати більший прибуток у майбутньому. Це передбачає тісну співпрацю з клієнтом, щоб зрозуміти та проаналізувати його бізнес-потреби, а також цільову аудиторію. Дизайн опитування включає встановлення мети, визначення вибірки, прийняття рішення про моду опитування та нарешті створення анкети. Продуманий опитувальний опитувальник може дати кращу інформацію про тему дослідження та виявитись дуже корисним для покращення бізнесу
+2. форми опитування, введення даних, в основному означає захоплення даних з паперових / веб-опитувальників або форм опитування та зберігання їх в електронному форматі. Цей процес вимагає поєднання професійних навичок та новітніх передових технологій для збору відповідної інформації з усіх видів опитувань. У наші дні для сканування форми опитування використовуються OCR та інші методи сканування, що значно зменшило помилки введення даних. Потім зібрані дані зберігаються у відповідних цифрових форматах, включаючи MS Excel, SAS, SPSS, MSWord, MySQL тощо.
+3. однією з основних цілей обробки даних опитування є надання якісних даних доступними організаціям з метою аналізу. Дані форми опитування завжди схильні до помилок, упущень та інших невідповідностей. Ці непослідовність та неповнота даних, якщо їх не відредагувати та виправити вчасно, можуть ускладнити аналіз та навіть призвести до неправильного аналізу. Отже, щоб уникнути цієї проблеми, постачальники послуг з введення даних для опитування повинні мати ефективну систему забезпечення якості. Якість даних можна забезпечити, дотримуючись перевіреної методології, наприклад:
+
+- форми опитування спочатку класифікуються на основі певних визначених критеріїв. Форми ретельно перевіряються на їх структуру коду, а відповіді з відкритими відповідями стандартизуються та перекодуються на цьому етапі.
+- перевірте всі анкети після введення даних, щоб переконатися, що всі поля даних були точно заповнені.
+- використовуйте процес подвійного керування, щоб уникнути розбіжностей у даних.
+- перевірте дані на невідповідності та вирішіть проблеми, що стосуються відсутніх, дублікатів, неповних даних тощо.
+
+1. дані опитування у сирому вигляді, ймовірно, не мають особливого сенсу для організацій, якщо вони не представлені у спосіб, який легко зрозуміти. Потрібна широка звітність та статистика, щоб допомогти підприємствам аналізувати ситуації та вживати заходів відповідно. Звіти можуть бути різного типу в залежності від потреб організації, таких як презентація - звіти про якість, перехресні таблиці, частотний аналіз тощо. Звіти з опитування - це чудовий спосіб оглядати відповіді опитувань на очі.
+
+
+
+# Оса
 
 ОСА - програмне забезпечення для обробки та аналізу даних соціологічних та маркетологічних досліджень, що була створена у 1989 році за підтримки Інституту соціології НАН України. Маркетингові компанії України використовують технологію системи ОСА у своїй роботі. Поява ПЗ ОСА якісно змінило зміст курсів з обробки даних в соціології.
 
@@ -120,7 +137,7 @@ OCA New Line Technology - набір програм для підготовки 
 
 Публікація даних в Internet:
 
-OCA Online - система, що дозволяє розміщувати дані в мережі Internet і аналізувати їх, використовуючи звичайний браузер.
+OCAOnline - система, що дозволяє розміщувати дані в мережі Internet і аналізувати їх, використовуючи звичайний браузер.
 
 
 
@@ -156,7 +173,11 @@ OCA DataCorrector - програма-інтерпретатор мови ком�
 - Застаріле програмне забезпечення
 - Обмежена функціональність  у порівнянні з конкурентами
 
-**Google**** forms**
+# Google
+
+#
+
+# forms
 
 З ресурсу [6]:
 
@@ -186,7 +207,7 @@ OCA DataCorrector - програма-інтерпретатор мови ком�
 - кількість дизайнів дуже обмежена
 - немає доступу до API
 
-**Surveymonkey**
+# Surveymonkey
 
 Surveymonkey допомагає збирати людські думки та трансформувати їх в PeoplePoweredData. [9]
 
@@ -206,13 +227,14 @@ Surveymonkey допомагає збирати людські думки та т
 - погана налаштування опитувань, тільки 12 дизайнів
 - форматування опитувань може здаватися важким для деяких користувачів
 
-Джерела:
+# Джерела
+:
 
 1. [https://www.oca.com.ua/index.php?t=6&amp;rnd=10](https://www.oca.com.ua/index.php?t=6&amp;rnd=10)
 
-2. [https://studfile.net/preview/2449228/](https://studfile.net/preview/2449228/)
+2. [https](https://studfile.net/preview/2449228/)[://](https://studfile.net/preview/2449228/)[studfile](https://studfile.net/preview/2449228/)[.](https://studfile.net/preview/2449228/)[net](https://studfile.net/preview/2449228/)[/](https://studfile.net/preview/2449228/)[preview](https://studfile.net/preview/2449228/)[/2449228/](https://studfile.net/preview/2449228/)
 
-3. [https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)
+3. [https](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[://](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[www](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[.](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[pharmencyclopedia](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[.](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[com](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[.](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[ua](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[/](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[article](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[/2796/](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[anketuvannya](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)
 
 4. [https://cpd.com.ua/uk/anketne-opytuvannya/](https://cpd.com.ua/uk/anketne-opytuvannya/)
 
@@ -220,8 +242,8 @@ Surveymonkey допомагає збирати людські думки та т
 
 6. [https://netology.ru/blog/google-formy](https://netology.ru/blog/google-formy)
 
-7.[https](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[://](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[web](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[archive](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[org](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[web](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/20070102222332/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[http](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[://](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[www](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[teberia](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[pl](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[encyklopedia](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[php](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[?](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[a](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[=](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[EncyMore](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[&amp;](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[EncyId](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[=5](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)
+7. [https](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[://](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[web](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[archive](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[org](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[web](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/20070102222332/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[http](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[://](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[www](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[teberia](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[pl](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[encyklopedia](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[php](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[?](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[a](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[=](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[EncyMore](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[&amp;](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[EncyId](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[=5](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)
 
-8.
+8.[https](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[://](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[www](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[.](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[suntecindia](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[.](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[com](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[/](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[blog](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[/4-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[important](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[steps](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[in](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[survey](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[data](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[processing](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[/](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)
 
-9. [https://ru.surveymonkey.com/mp/take-a-tour/?ut\_source=megamenu](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)
+9. [https](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[://](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[ru](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[.](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[surveymonkey](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[.](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[com](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[/](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[mp](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[/](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[take](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[-](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[a](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[-](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[tour](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[/?](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[ut](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[\_](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[source](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[=](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[megamenu](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)
