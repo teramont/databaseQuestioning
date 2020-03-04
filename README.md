@@ -1,7 +1,7 @@
 <h1>Database questioning</h1>
 <img src="main.png">
 
-[Навігація проекту](https://github.com/teramont/databaseQuestioning/blob/master/Information/navigation.md)
+# [Навігація проекту](https://github.com/teramont/databaseQuestioning/blob/master/Information/navigation.md)
 
 - Шпильовий Роман Петрович           rendonon@gmail.com
 - Фібрук Руслан Сергійович           rfibruk@gmail.com
