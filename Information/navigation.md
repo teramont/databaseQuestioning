@@ -1,4 +1,4 @@
-# Теорія та термінологія проекту
+# Навігація проекту
 
 * [Термінологія](https://github.com/teramont/databaseQuestioning/blob/master/Information/terminology.md)
 * [Порівняння сервісів анкетування](https://github.com/teramont/databaseQuestioning/blob/master/Information/comparison.md)
