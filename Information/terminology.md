@@ -6,7 +6,7 @@
 
 Шляхом узагальнення заповнених анкет одержується об&#39;єктивна інформація про ставлення населення, окремих соціальних груп, регіону споживачів до певних товарів, послуг чи до окремих явищ, подій тощо. Ця інформація може використовуватись при розробці програм впливу на певні соціально-політичні події, розвиток ринку, формування попиту населення, при здійсненні заходів щодо вдосконалення виробництва товарів та розширення послуг.
 
-**Якщо опиратися на роботи центру прикладних досліджень** **[4]****, то виділяють такі види **** анкетування ****:**
+**Якщо опиратися на роботи центру прикладних досліджень[[4](https://cpd.com.ua/uk/anketne-opytuvannya/)], то виділяють такі види анкетування:
 
 Види анкетування різноманітні і групуються відповідно до певних ознак.
 
@@ -36,7 +36,7 @@
 - легальне (зазначається особа респондента);
 - анонімне (опитування проводиться інкогніто).
 
-Правила створення анкет для опитувань за версією [5]:
+Правила створення анкет для опитувань за версією [[5](https://blog.anketolog.ru/2014/08/kak-sostavit-anketu/)]:
 
 - Чітко встановити ціль дослідження
 - Робити питання та відповіді якомога коротшими і зрозумілими
@@ -64,7 +64,7 @@
 
 # Метод Дельфі
 
-Ме́тод експе́ртних оці́нок або метод Дельфі (англ. Delphi technique) — один з основних класів методів науково-технічного прогнозування, який ґрунтується на припущенні, що на основі думок експертів можна збудувати адекватну модель майбутнього розвитку об&#39;єкта прогнозування. [7]
+Ме́тод експе́ртних оці́нок або метод Дельфі (англ. Delphi technique) — один з основних класів методів науково-технічного прогнозування, який ґрунтується на припущенні, що на основі думок експертів можна збудувати адекватну модель майбутнього розвитку об&#39;єкта прогнозування. [[7](https://web.archive.org/web/20070102222332/http://www.teberia.pl/encyklopedia.php?a=EncyMore&EncyId=5)]
 
 Відправною інформацією при цьому є думка спеціалістів, які займаються дослідженнями й розробками в прогнозованій галузі.
 
@@ -113,15 +113,15 @@
 
 ОСА - програмне забезпечення для обробки та аналізу даних соціологічних та маркетологічних досліджень, що була створена у 1989 році за підтримки Інституту соціології НАН України. Маркетингові компанії України використовують технологію системи ОСА у своїй роботі. Поява ПЗ ОСА якісно змінило зміст курсів з обробки даних в соціології.
 
-Згідно з офіційним медіа ресурсом технології ОСА[1]:
+Згідно з офіційним медіа ресурсом технології ОСА[[1](https://www.oca.com.ua/index.php?t=6&rnd=10)]:
 
 на платформі ОСА реалізовано такі програмні технології:
 
 Збір і введення даних:
 
-OCA MakeForm - модуль введення даних в комп&#39;ютер.
+OCA MakeForm - модуль введення даних в комп'ютер.
 
-OCA CATI - набір програм дозволяють проводити телефонні опитування за допомогою комп&#39;ютера.
+OCA CATI - набір програм дозволяють проводити телефонні опитування за допомогою комп'ютера.
 
 OCA MakeFormPsy - програма для проведення різного роду тестів (наприклад, психологічних тестів).
 
@@ -149,10 +149,10 @@ OCA ВІКІНГ - набір програм, що дозволяють вест
 
 OCA DataCorrector - програма-інтерпретатор мови команд ОСА, що дозволяє проводити логічний контроль введеної інформації, будувати нові ознаки і прекодовувати вже наявні, реструктурувати масиви на основі заздалегідь написаних завдань. На сьогоднішній день DataCorrector інтегрований в OCA for Windows і не існує у вигляді окремої програми.
 
-Посилаючись на [2] можна сказати що пакет забезпечує:
+Посилаючись на [[2](https://studfile.net/preview/2449228/)] можна сказати що пакет забезпечує:
 
-- введення анкет в файл на диск комп&#39;ютера і контроль введеної інформації;
-- можливість організації паралельного введення з декількох комп&#39;ютерів;
+- введення анкет в файл на диск комп'ютера і контроль введеної інформації;
+- можливість організації паралельного введення з декількох комп'ютерів;
 - введення та напівавтоматичне закриття відкритих та напівзакритих запитань;
 - робота з ознаками в метричній, номінальній, порядковій, а також номінальній з сумісними альтернативами шкалами;
 - побудова фільтрів для відбору анкет за умовою чи випадковим відбором;
@@ -175,7 +175,7 @@ OCA DataCorrector - програма-інтерпретатор мови ком�
 
 # Google forms
 
-З ресурсу [6]:
+З ресурсу [[6](https://netology.ru/blog/google-formy)]:
 
 Кожна форма являє собою окрему веб-сторінку, на якій розміщена анкета чи квіз. Все, що потрібно мати, - аккаунт Google.
 
@@ -205,7 +205,7 @@ OCA DataCorrector - програма-інтерпретатор мови ком�
 
 # Surveymonkey
 
-Surveymonkey допомагає збирати людські думки та трансформувати їх в PeoplePoweredData. [9]
+Surveymonkey допомагає збирати людські думки та трансформувати їх в PeoplePoweredData. [[9](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)]
 
 Переваги:
 
@@ -222,23 +222,3 @@ Surveymonkey допомагає збирати людські думки та т
 - безкоштовне використання дуже обмежене
 - погана налаштування опитувань, тільки 12 дизайнів
 - форматування опитувань може здаватися важким для деяких користувачів
-
-# Джерела
-
-1. [https://www.oca.com.ua/index.php?t=6&amp;rnd=10](https://www.oca.com.ua/index.php?t=6&amp;rnd=10)
-
-2. [https](https://studfile.net/preview/2449228/)[://](https://studfile.net/preview/2449228/)[studfile](https://studfile.net/preview/2449228/)[.](https://studfile.net/preview/2449228/)[net](https://studfile.net/preview/2449228/)[/](https://studfile.net/preview/2449228/)[preview](https://studfile.net/preview/2449228/)[/2449228/](https://studfile.net/preview/2449228/)
-
-3. [https](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[://](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[www](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[.](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[pharmencyclopedia](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[.](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[com](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[.](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[ua](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[/](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[article](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[/2796/](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)[anketuvannya](https://www.pharmencyclopedia.com.ua/article/2796/anketuvannya)
-
-4. [https://cpd.com.ua/uk/anketne-opytuvannya/](https://cpd.com.ua/uk/anketne-opytuvannya/)
-
-5. [https://blog.anketolog.ru/2014/08/kak-sostavit-anketu/](https://blog.anketolog.ru/2014/08/kak-sostavit-anketu/)
-
-6. [https://netology.ru/blog/google-formy](https://netology.ru/blog/google-formy)
-
-7. [https](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[://](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[web](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[archive](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[org](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[web](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/20070102222332/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[http](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[://](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[www](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[teberia](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[pl](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[/](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[encyklopedia](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[.](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[php](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[?](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[a](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[=](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[EncyMore](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[&amp;](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[EncyId](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)[=5](https://web.archive.org/web/20070102222332/http:/www.teberia.pl/encyklopedia.php?a=EncyMore&amp;EncyId=5)
-
-8. [https](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[://](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[www](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[.](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[suntecindia](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[.](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[com](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[/](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[blog](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[/4-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[important](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[steps](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[in](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[survey](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[data](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[-](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[processing](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)[/](https://www.suntecindia.com/blog/4-important-steps-in-survey-data-processing/)
-
-9. [https](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[://](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[ru](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[.](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[surveymonkey](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[.](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[com](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[/](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[mp](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[/](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[take](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[-](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[a](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[-](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[tour](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[/?](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[ut](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[\_](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[source](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[=](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)[megamenu](https://ru.surveymonkey.com/mp/take-a-tour/?ut_source=megamenu)
