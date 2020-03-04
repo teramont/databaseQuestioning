@@ -152,3 +152,5 @@
 - отсутствие экспорта данных в таблицы
 - неудобный анализ ответов
 - нет возможности автоматического распространения опросов
+
+# [Повернутися до навігації](https://github.com/teramont/databaseQuestioning/blob/master/Information/navigation.md)
