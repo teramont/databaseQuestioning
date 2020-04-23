@@ -1,0 +1,112 @@
+@startuml
+
+title Relationships - Class Diagram
+
+
+entity User {
+    + UserId;
+    + Email;
+    + UserName;
+    + Surname;
+    + Age;
+}
+
+entity Administrator
+entity Analyst
+entity Guest
+
+entity Access
+entity Role {
+ + Name
+ + Description
+}
+
+Role "1,1"--"0,*" Access
+
+User "1,1"--"0,*" Access
+
+Administrator --|> User
+Analyst --|> User
+Guest --|> User
+
+
+
+entity QuestionsForm{
+ + FormId;
+ + Author;
+}
+
+entity TypeForm {
+ + AccessType
+}
+
+
+
+
+
+entity Question {
++ QuestionId
++ Text
+}
+
+entity questionType
+
+entity OneOfManyQuestion {
++ PossibleAnswers
+}
+
+entity OpenQuestion 
+
+entity MultipleQuestion {
++ PossibleAnswers
+}
+
+MultipleQuestion --|> questionType
+OpenQuestion --|> questionType
+OneOfManyQuestion --|> questionType
+
+questionType --* Question
+
+
+
+
+Question  "0.*"--"1,*" QuestionsForm
+QuestionsForm "1,1"--"0,*" TypeForm
+
+
+
+
+
+
+entity AnswerForm {
+ + FormId
+ + Answers
+ + Author
+}
+
+
+
+entity Answer {
+ + AnswerId
+ + AnswerText
+}
+
+entity answerType{
+ - UserAnswers
+ - PossibleAnswers 
+ - OpenAnswer 
+ - ...
+}
+
+answerType "1.1"--"1.1" questionType
+TypeForm "1,1"--"0,*" AnswerForm
+
+answerType --* Answer
+
+AnswerForm "1,*"--"0,*" Answer
+
+
+
+User "1,*"--"0,*" AnswerForm
+User "1,*"--"0,*" QuestionsForm
+@enduml
