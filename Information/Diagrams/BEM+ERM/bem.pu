@@ -74,14 +74,8 @@ OneOfManyQuestion --|> questionType
 questionType --* Question
 
 
-
-
 Question  "0.*"--"1,*" QuestionsForm
 QuestionsForm "1,1"--"0,*" TypeForm
-
-
-
-
 
 
 entity AnswerForm {
