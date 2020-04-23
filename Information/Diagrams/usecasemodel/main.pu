@@ -1,4 +1,14 @@
 @startuml
+right header
+<font size=24 color=black>Package: <b>UCModel 1.1
+end header
+
+title
+<font size=18 color=black>Questioning
+<font size=16 color=black>Usecase diagram
+end title
+
+
  actor Admin
  actor Guest
  actor User
@@ -49,5 +59,9 @@
  Expert -up->UC12
  Expert -|>User
  
- 
+ right footer
+ Questioning. Usecase model
+ NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
+ Kyiv-2020
+ end footer
  @enduml
