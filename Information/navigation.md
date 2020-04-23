@@ -5,3 +5,4 @@
 * [Таблиця порівнянь сервісів опитування](https://github.com/teramont/databaseQuestioning/blob/master/Information/TableOfComparisons.md)
 * [Потреби зацікавлених осіб](https://github.com/teramont/databaseQuestioning/blob/master/Information/IntrestedPeople.md)
 * [Діаграми можливих випадків використання](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams.md)
+* [BEM](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/BEM/BEMv1.md)
