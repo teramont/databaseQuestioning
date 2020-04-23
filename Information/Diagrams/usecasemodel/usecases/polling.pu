@@ -1,0 +1,22 @@
+@startuml
+right header
+<font size=24 color=black><b>Polling
+end header
+
+actor User
+
+
+User -> System: Pressed button(Polls list)
+System -> User: Offer the new form "Polls list"
+User -> System: Choose the poll
+System -> User: Offer the new form "Review the poll"
+User -> System: Reads information and clicks the button (Comment)
+System -> User: Offer the new form "Comments"
+User -> System: Reads comments and can write own comment \n them press the button(Send a comment)
+
+right footer
+Questioning. Polling
+NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
+Kyiv-2020
+end footer
+@enduml
