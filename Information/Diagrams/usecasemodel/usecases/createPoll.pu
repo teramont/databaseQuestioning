@@ -1,0 +1,28 @@
+@startuml
+right header
+<font size=24 color=black><b>Creating a poll
+end header
+
+actor Admin
+actor SurveyManager as SM
+actor Expert as EX
+
+participant SM order 30
+participant EX order 20
+participant Admin order 10
+
+Admin -> System: Pressed button(Create a poll)
+System -> Admin: Offer the new form "New poll"
+Admin -> System: Fill the field "Name of the poll"
+System -> Admin: Offer the new form "Editing of the poll"
+Admin -> System: Editing of the poll, adding questions and \nspecial questions, presses(Finish creating) button
+System -> System: Finish processing of the poll
+System -> EX: Send an invitation on the poll
+System -> SM: Send message about creating a poll
+
+right footer
+Questioning. Registration
+NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
+Kyiv-2020
+end footer
+@enduml
