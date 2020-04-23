@@ -9,7 +9,6 @@ title
 end title
 
 
-
 entity User {
     + UserId;
     + Email;
