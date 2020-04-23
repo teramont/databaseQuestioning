@@ -1,0 +1,104 @@
+@startuml
+
+right header
+<font size=24 color=black><b>ERM
+
+end header
+
+title
+<font size=18 color=black>Questioning
+<font size=16 color=black>ER-model 
+
+
+end title
+
+package " User Profile Management" {
+	entity User #ffeeee {
+		userName
+		userSurname
+		userId
+		age
+		email
+	}
+}	
+	
+package CreatePoll {
+	entity Poll #ffeeee {
+		style
+		questions
+		answers
+	}
+}
+package "Polling" {	
+entity Respondent #yellow {
+	name
+}
+
+object admin #white
+object SurveyManager #white
+object guest #white
+object expert #white
+
+admin .u.> User : instanceOf
+SurveyManager ..> User : instanceOf
+expert ..> User : instanceOf
+guest ..> Respondent : instanceOf
+User ..> Respondent : instanceOf
+
+object addQuestinon #white{
+    QuestionId
+    Text
+}
+
+addQuestinon ..> CreatePoll : componentOf
+
+entity QuestionType #white {
+    type
+}
+
+object OpenQuestion #white
+object MultipleQuestion #white
+object OneOfManyQuestion #white
+
+OpenQuestion "1,1" ..> "1,1" QuestionType : instanceOf
+MultipleQuestion "1,1" ..> "1,1" QuestionType : instanceOf
+OneOfManyQuestion "1,1" ..> "1,1" QuestionType : instanceOf
+
+addQuestinon --> QuestionType
+
+admin --> CreatePoll
+
+entity Answer #yellow {
+    answerId
+    answerText
+}
+
+entity AnswerType #white {
+    UserAnswer
+    PossibleAnswer
+    OpenAnswer
+}
+
+Answer "1,1" ..> "1,1" AnswerType : instanceOf
+AnswerType "1,1" -- "1,1" QuestionType
+Respondent "1,*" --> "1,1" Answer #red
+
+
+entity Manage #white {
+    CheckSurveyResults
+    InviteExperts
+    Monitoring
+    ...
+}
+SurveyManager --> Manage
+
+
+}
+
+right footer
+Questioning. ERM
+NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
+Kyiv-2020
+end footer
+
+@enduml
