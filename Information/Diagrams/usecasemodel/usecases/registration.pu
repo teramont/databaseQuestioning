@@ -3,6 +3,7 @@ right header
 <font size=24 color=black><b>Registration
 end header
 
+actor User
 
 User -> System: Pressed button(Registration)
 System -> User: Offers registration form
