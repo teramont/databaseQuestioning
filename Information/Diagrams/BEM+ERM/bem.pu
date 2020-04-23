@@ -5,7 +5,7 @@ end header
 
 title
 <font size=18 color=black>Questioning
-<font size=16 color=black>BEModel
+<font size=16 color=black>BE model
 end title
 
 
@@ -117,7 +117,7 @@ User "1,*"--"0,*" AnswerForm
 User "1,*"--"0,*" QuestionsForm
 
 right footer
-Questioning. Usecase model
+Questioning. BEModel
 NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
 Kyiv-2020
 end footer
