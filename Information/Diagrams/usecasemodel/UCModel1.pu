@@ -7,11 +7,9 @@ title Use Case Diagram
 :Guest: as G
 :Authorized User: as Auth_User
 
-
 Admin ----> Auth_User
 Anal -d---> Auth_User
 Auth_User -d---> G
-
 
 usecase (See public survey forms) as showPublicF
 usecase (Participate in public polls) as ParticipatePF
@@ -20,7 +18,6 @@ usecase (Sign up) as SignUp
 G -l-> showPublicF
 G -r-> ParticipatePF
 G -r-> SignUp
-
 
 usecase (Have access to closed survey forms) as ClosedF
 usecase (Leave notes and comments) as Comment
@@ -59,7 +56,7 @@ Admin -u-> editContent
 Admin -d-> blockUser
 Admin -r-> editRole
 
-
-
-
 @enduml
+
+# [Повернутися до списку діаграм](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams.md)
+# [Повернутися до навігації](https://github.com/teramont/databaseQuestioning/blob/master/Information/navigation.md)
