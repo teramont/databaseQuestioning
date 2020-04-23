@@ -13,7 +13,7 @@ end title
  actor Guest
  actor User
  actor Expert
- actor "Survay Manager" as SM
+ actor "Survey Manager" as SM
  
  usecase "Editing a poll" as UC1
  usecase "Creating a poll" as UC2
@@ -47,7 +47,7 @@ end title
  Guest -up->UC6
  Guest --|> User
  
- 'Usecases for Survay Manager
+ 'Usecases for Survey Manager
  SM -up->UC7
  SM -left->UC8
  SM ->UC9
