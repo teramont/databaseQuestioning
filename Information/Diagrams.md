@@ -2,6 +2,7 @@
 
 * [Модель юзкейсів version1.1](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/usecasemodel/main.md)
 * [Модель юзкейсів version1.0](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/usecasemodel/UCModel1.md)
+* [BRModel](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/BEM%2BERM/bem.md)
 
 * [Незареєстрований користувач(Guest)](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/guest.md)
 * [Користувач(User)](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/user.md)
