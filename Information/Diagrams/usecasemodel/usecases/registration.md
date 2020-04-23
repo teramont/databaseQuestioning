@@ -15,5 +15,8 @@
 6. На електронну пошту, вказану користувачем при реєстрації, система посилає листа з посиланням для підтвердження адреси електронної пошти.
 7. Після проходження за посиланням користувач стає повноправним користувачем системи.
 
+![ModelView](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/teramont/databaseQuestioning/master/Information/Diagrams/usecasemodel/usecases/registration.pu)
+[Код plantUML](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/usecasemodel/usecases/registration.pu)
+
 ## [Повернутися до списку діаграм](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams.md)
 ## [Повернутися до навігації](https://github.com/teramont/databaseQuestioning/blob/master/Information/navigation.md)
