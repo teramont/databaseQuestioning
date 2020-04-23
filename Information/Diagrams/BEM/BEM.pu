@@ -17,9 +17,10 @@ entity User {
     + Age;
 }
 
-entity Administrator
-entity Analyst
 entity Guest
+entity Expert
+entity Admin
+entity SurveyManager
 
 entity Access
 entity Role {
@@ -31,9 +32,10 @@ Role "1,1"--"0,*" Access
 
 User "1,1"--"0,*" Access
 
-Administrator --|> User
-Analyst --|> User
+Admin --|> User
+Expert --|> User
 Guest --|> User
+SurveyManager --|> User
 
 
 
@@ -45,6 +47,8 @@ entity QuestionsForm{
 entity TypeForm {
  + AccessType
 }
+
+
 
 
 
@@ -72,8 +76,14 @@ OneOfManyQuestion --|> questionType
 questionType --* Question
 
 
+
+
 Question  "0.*"--"1,*" QuestionsForm
 QuestionsForm "1,1"--"0,*" TypeForm
+
+
+
+
 
 
 entity AnswerForm {
