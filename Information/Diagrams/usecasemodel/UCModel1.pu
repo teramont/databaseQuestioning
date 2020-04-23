@@ -1,0 +1,65 @@
+@startuml
+
+title Use Case Diagram 
+
+:Administrator: as Admin
+:Analyst: as Anal
+:Guest: as G
+:Authorized User: as Auth_User
+
+
+Admin ----> Auth_User
+Anal -d---> Auth_User
+Auth_User -d---> G
+
+
+usecase (See public survey forms) as showPublicF
+usecase (Participate in public polls) as ParticipatePF
+usecase (Sign up) as SignUp
+
+G -l-> showPublicF
+G -r-> ParticipatePF
+G -r-> SignUp
+
+
+usecase (Have access to closed survey forms) as ClosedF
+usecase (Leave notes and comments) as Comment
+usecase (Add your own answers) as OwnAnswer
+usecase (Part of the preliminary results for some questions) as PreResult
+usecase (Edit profile) as EditProfile
+
+Auth_User -l-> ClosedF
+Auth_User -l-> Comment
+Auth_User -r-> OwnAnswer
+Auth_User -u-> PreResult
+Auth_User -u-> EditProfile
+
+
+usecase (Create survey forms) as createF
+usecase (Change survey forms) as changeF
+usecase (See the results) as seeRes
+usecase (Distribute survey forms) as distributeF
+usecase (Share your forms) as shareF
+
+
+Anal -l-> createF
+Anal -u-> changeF
+Anal -u-> seeRes
+Anal -d-> distributeF
+Anal -> shareF
+
+
+usecase (Have access to all content) as accessAllContent
+usecase (Edit content) as editContent
+usecase (Block users) as blockUser
+usecase (Assign different roles to users) as editRole
+
+Admin -u-> accessAllContent
+Admin -u-> editContent
+Admin -d-> blockUser
+Admin -r-> editRole
+
+
+
+
+@enduml
