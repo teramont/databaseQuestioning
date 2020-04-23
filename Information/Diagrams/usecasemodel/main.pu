@@ -1,0 +1,53 @@
+@startuml
+ actor Admin
+ actor Guest
+ actor User
+ actor Expert
+ actor "Survay Manager" as SM
+ 
+ usecase "Editing a poll" as UC1
+ usecase "Creating a poll" as UC2
+ usecase "Processing and analyzing recieved data" as UC3
+ usecase "Add a question ro the poll" as UC4
+ 
+ 
+ usecase "Commenting of the questions, answers, polls" as UC5
+ usecase "View positions posted by the analyst for public access" as UC6
+
+ usecase "Manage the proccess of preparing,\nconducting and analyzing the poll" as UC7
+ usecase "Edit content" as UC8
+ usecase "View existing poll" as UC9
+ 
+ usecase "Confirming an invitation to the polls" as UC10
+ usecase "Recieving the rusults of the polls" as UC11
+ usecase "Answer the questions in the comments" as UC12
+ 
+ 'Usecases for Admin
+ Admin --> UC1
+ Admin --> UC2
+ Admin --> UC3
+ Admin --> UC4
+ Admin -up-|> User
+ 
+ 'Usecases for User
+ User -right->UC5
+
+ 
+ 'Usecases for Guest
+ Guest -up->UC6
+ Guest --|> User
+ 
+ 'Usecases for Survay Manager
+ SM -up->UC7
+ SM -left->UC8
+ SM ->UC9
+ SM -u--|>User
+ 
+ 'Usecases for Expert
+ Expert ->UC10
+ Expert -left->UC11
+ Expert -up->UC12
+ Expert -|>User
+ 
+ 
+ @enduml
