@@ -19,5 +19,5 @@
 
 [Код plantUML](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/usecasemodel/usecases/registration.pu)
 
-## [Повернутися до списку діаграм](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams.md)
+## [Повернутися до списку діаграм можливих випадків використання](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams.md)
 ## [Повернутися до навігації](https://github.com/teramont/databaseQuestioning/blob/master/Information/navigation.md)
