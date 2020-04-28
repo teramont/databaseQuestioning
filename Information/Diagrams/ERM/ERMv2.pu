@@ -30,7 +30,7 @@ package "Access Policy" {
 entity Access #white-purple {
 }
 
-Access "0,*"--> User
+Access "0,*"-u-> User
 
 entity Role #purple {
     name
