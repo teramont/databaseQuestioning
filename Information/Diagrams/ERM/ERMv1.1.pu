@@ -1,0 +1,153 @@
+@startuml
+
+right header
+<font size=24 color=black><b>ERM
+
+end header
+
+title
+<font size=18 color=black>Questioning
+<font size=16 color=black>ER-model 
+end title
+
+package "User Profile Manager" {
+entity User {
+ - userId
+ - email
+ - userName
+ - surname
+ - age
+}
+
+Administrator ..> User: instanceOf
+Guest ..> User: instanceOf
+Expert ..> User: instanceOf
+SurveyManager ..> User: instanceOf
+}
+
+package "Access Policy" {
+
+entity Access #white-purple {
+}
+
+Access "0,*"-u-> User
+
+entity Role #purple {
+    name
+    grant
+}
+
+Access --> Role
+
+object Collaborator #white
+object Author #white
+object "Administrator" as AdminRole #white
+object Respondent #white
+
+Collaborator ..> Role: instanceOf
+Author ..> Role: instanceOf
+AdminRole ..> Role: instanceOf
+Respondent ..> Role: instanceOf
+
+
+entity Request #white-blue {
+name
+}
+
+entity Object #blue-white {
+name
+type
+}
+
+entity Operation #blue-white {
+name
+type
+}
+
+Role "1,1"--> Request
+
+Request "0.,*"-->"0,1" Object
+Request "0.,*"-->"0,1" Operation
+
+object "User" as userObject #white
+object QuestionForm #white
+object AnswerForm #white
+object Question #white
+object Answer #white
+
+userObject ..> Object: instanceOf
+QuestionForm ..> Object: instanceOf
+AnswerForm ..> Object: instanceOf
+Question ..> Object: instanceOf
+Answer ..> Object: instanceOf
+
+object Create
+object Update
+object Delete
+object Read
+object Response
+object Add
+object Edit
+
+Create ..> Operation: instanceOf
+Update ..> Operation: instanceOf
+Delete ..> Operation: instanceOf
+Read ..> Operation: instanceOf
+Response ..> Operation: instanceOf
+Add ..> Operation: instanceOf
+Edit ..> Operation: instanceOf
+}
+
+
+package "Domain" {
+
+entity "QuestionForm" as QF {
+    - id
+    - name
+    - about
+    - questions
+    - PossibleAnswers
+}
+    
+entity SurveyStatistics {
+    - id
+    - owner
+}
+    
+entity "AnswerForm" as AF{
+    - id
+    - author
+    - answers
+}
+    
+AF "1,*"-->"1,1" SurveyStatistics
+
+AF "1,1"---"1,*" QF
+
+package "Data Structurization" {
+
+entity Tag {
+name
+}
+
+Id --> Link
+Link --> Tag 
+
+Id "0,*"-u-->"1,1" QF
+
+}
+
+}
+
+Access "0,*"-l--> SurveyStatistics
+Access "0,*"-l--> QF
+
+
+
+right footer
+Questioning. ERM
+NTUU "Igor Sikorsky Kyiv Polytechnic Institute"
+Kyiv-2020
+end footer
+
+@enduml
