@@ -1,4 +1,5 @@
 <h1>Database questioning</h1>
+Наш проект сделает анкетирование удобным для любых пользователей, даже для экспертов, а техногогия DualPermission позволит собирать и обрабатывать статистику опросов.
 <img src="main.png">
 
 # [Навігація проекту](https://github.com/teramont/databaseQuestioning/blob/master/Information/navigation.md)
