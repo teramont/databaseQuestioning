@@ -9,3 +9,4 @@
 * [ERM](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/ERM/ERM.md)
 * [ERM v1.1](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/ERM/ERMv1.1.md)
 * [EER](https://github.com/teramont/databaseQuestioning/blob/master/Information/Diagrams/eer.md)
+* [db.sql](https://github.com/teramont/databaseQuestioning/blob/master/src/db.sql)
