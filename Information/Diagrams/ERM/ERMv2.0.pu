@@ -1,0 +1,50 @@
+@startuml
+ entity Survey{
+   id
+ }
+ 
+ entity User{
+   id
+   email
+   name
+   surname
+   age
+ }
+ 
+ entity Role{
+   name
+ }
+ 
+ entity Grant{
+   
+ }
+ 
+ Grant "0,*" --> "1,1" User
+ 
+ Grant "0,*" --> "1,1" Survey
+ 
+ Grant "0,*" --> "1,1" Role
+ 
+ entity Session{
+   start: Date
+   stop: Date
+ }
+ 
+ Session "0,*" --> "1,1" User
+ 
+ entity SurveyState{
+   name
+ }
+ 
+ entity Event{
+   date
+ }
+ 
+ Event "0,*" --> "1,1" Survey
+ Event "0,*" --> "1,1" SurveyState
+ Event "0,*" --> "1,1" Session
+ 
+ 
+ 
+
+@enduml
