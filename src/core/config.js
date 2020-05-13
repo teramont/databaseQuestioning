@@ -7,7 +7,7 @@ const {createPool} = require('mysql2');
     host: 'localhost',
     user: 'root',
     database: 'survey',
-    password: '30062001',
+    password: 'SQL_server_pass',
   }).promise();
 
 module.exports = db;
