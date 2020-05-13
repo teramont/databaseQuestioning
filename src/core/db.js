@@ -2,10 +2,6 @@
 
 const db = require('./config');
 
-require('dotenv')
-    .config();
-
-
 class Table{
   constructor(table){
     this.table = table;
